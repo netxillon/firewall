@@ -52914,7 +52914,6 @@ vkcdnservice.appspot.com^
 ||metrics.bananarepublic.eu^
 ||metrics.bankatfirst.com^
 ||metrics.bankofamerica.com^
-||metrics.bankofmelbourne.com.au^
 ||metrics.banksa.com.au^
 ||metrics.bankwest.com.au^
 ||metrics.banter.com^
@@ -54728,7 +54727,6 @@ vkcdnservice.appspot.com^
 ||smetrics.bancsabadell.com^
 ||smetrics.bankatfirst.com^
 ||smetrics.bankaustria.at^
-||smetrics.bankofmelbourne.com.au^
 ||smetrics.banksa.com.au^
 ||smetrics.banquemondiale.org^
 ||smetrics.barandblock.co.uk^
